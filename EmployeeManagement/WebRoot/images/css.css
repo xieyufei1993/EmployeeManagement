@@ -1,0 +1,15 @@
+A {
+	COLOR: #cccccc; TEXT-DECORATION: none
+}
+.red {
+	COLOR: red
+}
+.white {
+	COLOR: #ffffff
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+.css {
+	BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BACKGROUND-COLOR: #333333; HEIGHT: 18px; COLOR: #ffffff; BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid
+}
